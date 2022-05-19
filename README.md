@@ -23,7 +23,7 @@
   </a>
 <div>
   
-## Tecnologias em aprendizado
+### Tecnologias em aprendizado
   
 <div>
   <a href="http://www.python.org" target="_blank" rel="noreferrer">
